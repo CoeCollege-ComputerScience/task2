@@ -1,0 +1,48 @@
+
+JavaScript Events Research
+
+1. Click Event (onclick)
+
+The click event occurs when a user clicks on an HTML element, such as a button, link, or image. It can also be triggered by keyboard interaction on certain elements.
+
+Possible uses:
+- Making buttons perform actions.
+- Opening menus or windows.
+- Changing information displayed on a webpage.
+
+2. Submit Event (onsubmit)
+
+The submit event occurs when a user submits an HTML form. It allows JavaScript to perform additional actions before the form is sent.
+
+Possible uses:
+- Checking form information before submission.
+- Preventing incomplete or incorrect submissions.
+- Displaying confirmation messages.
+
+3. Keydown Event (onkeydown)
+
+The keydown event occurs whenever a user presses a key on their keyboard. It can detect all keys, including keys that do not produce characters.
+
+Possible uses:
+- Creating keyboard shortcuts.
+- Detecting when the Enter key is pressed.
+- Controlling games or interactive applications.
+
+4. Mouseover Event (onmouseover)
+
+The mouseover event occurs when a mouse pointer moves onto an HTML element or one of its child elements. Unlike some other mouse events, it can trigger again when moving between child elements.
+
+Possible uses:
+- Creating hover effects.
+- Displaying additional information when hovering over an element.
+- Highlighting menus or other interactive webpage elements.
+
+Sources:
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseover_event
